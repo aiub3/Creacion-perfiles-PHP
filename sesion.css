@@ -1,0 +1,30 @@
+* {margin:0;padding:0;}
+body {background:#EC7063;}
+.contenedor {background:#CD5C5C;width:60%;margin:auto;margin-top:30px;}
+.contenedor h2 {text-align:center;padding-top:10px;}
+.contenedor .formulario {width:50%;margin:auto;}
+.nombre, .password {width:70%;height:20px;margin-top:10px;}
+.password2 {width:50%;height:20px;margin-top:10px;}
+.formulario label {font-size:20px;}
+.enviar {width:20%;height:20px;margin-left:150px;margin-top:20px;
+margin-bottom:20px;cursor:pointer;}
+.perfil {width:30%;border:1px solid black;padding:5px;float:left;height:190px;}
+.perfil h3 {float:left;font-size:24px;}
+.perfil a {text-decoration:none;color:white;margin-left:10px;}
+.perfil img {float:left;width:30%;clear:both;height:50px;}
+.perfil p:nth-child(3) {font-size:24px;}
+.perfil p:nth-child(4) {clear:both;}
+.mensajes {padding:10px;}
+.mensajes input, label, textarea {margin:5px;}
+.mensajes p {text-align:center;}
+.textarea {width:40%;height:100px;}
+.formulario_datos {width:40%;margin:auto;}
+.formulario_datos input[type="text"] {width:90%;margin-top:5px;margin-bottom:5px;}
+.enviar_datos {width:40%;margin-left:80px;margin-bottom:10px;margin-top:10px;
+cursor:pointer;}
+.descripcion {margin-bottom:10px;}
+.enlace {text-decoration:none;color:white;margin-left:70px;}
+.existe_cuenta {text-align:center;}
+.existe_cuenta a {text-decoration:none;color:white;}
+.mensaje {clear:both;}
+.mensaje p:first-child {text-decoration:underline;}
